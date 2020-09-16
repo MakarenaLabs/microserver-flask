@@ -1,0 +1,22 @@
+{
+	"config": {
+	  	"frequency": 5,
+		"updated": true
+	},
+	"sensors": {
+		"hum": 1,
+		"temp1": 1,
+		"pressure": 1,
+		"temp2": 1,
+		"accel1": [1,2,3],
+		"Gaxis": [1,2,3],
+		"accel2": [1,2,3],
+		"magneto": [1,2,3]
+	},
+    "relays": {
+        "relay1": false,
+        "relay2": false,
+        "relay3": false,
+        "relay4": false
+    }
+}

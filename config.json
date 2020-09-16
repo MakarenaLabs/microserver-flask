@@ -1,0 +1,1 @@
+{ "bitstream": "bitstreams/microzed.bit", "addresses": { "uart": "0x42c00000", "gpio": "0x41200000" } }
