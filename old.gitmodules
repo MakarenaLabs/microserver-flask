@@ -1,9 +1,0 @@
-[submodule "modbus-master-uartlite-rs485-axi"]
-	path = modbus-master-uartlite-rs485-axi
-	url = git@github.com:Makarenalabs/modbus-master-uartlite-rs485-axi.git
-[submodule "x-nucleo-iks01a2-python"]
-	path = x-nucleo-iks01a2-python
-	url = git@github.com:MakarenaLabs/X-NUCLEO-IKS01A2-Python.git
-[submodule "x-nucleo-iks01a2-pl-python"]
-	path = x-nucleo-iks01a2-pl-python
-	url = git@github.com:MakarenaLabs/X-NUCLEO-IKS01A2-PL-Python.git
